@@ -7,7 +7,7 @@ function Learner({ name, bio, scores }) {
       <p>{bio}</p>
       <h3>Scores:</h3>
       <div className={styles.scoreHeader}>
-        <p className={styles.headerNames}>Score</p>
+        <p className={styles.headerNames}>Date</p>
         <p className={styles.headerNames}>Value</p>
       </div>
      

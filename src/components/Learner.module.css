@@ -1,0 +1,34 @@
+
+h2{
+    color: cornflowerblue;
+    font-size: 1.5rem;
+}
+.learner{
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    border:2px,solid,grey;
+    padding:10px;
+    margin-bottom: 20px;
+}
+p{
+    text-align: left;
+}
+.scoreHeader{
+  display: flex;
+  justify-content: space-between;
+  text-align: left;
+  align-items: left;
+  width: 300px;
+  border: 2px,solid,grey;
+}
+.headerNames{
+  margin: 4px;
+  font-size: 1.2rem;
+  color: cornflowerblue;
+  font-weight: bold;
+  
+}
+h3{
+  color: coral;
+}

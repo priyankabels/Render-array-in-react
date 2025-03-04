@@ -1,0 +1,11 @@
+.scoreContainer{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    align-items: left;
+    width: 300px;
+    border: 2px,solid,grey;
+}
+.item{
+    margin: 4px;
+}
